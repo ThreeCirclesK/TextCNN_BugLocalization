@@ -1,0 +1,9 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore larg txt files
+artifacts/glove6B/*.txt
+artifacts/trained_model/*.pt
+
+
