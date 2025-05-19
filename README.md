@@ -67,7 +67,7 @@ Place the following in the `artifact/` folder:
 
 * `glove6B/` — Pretrained GloVe embeddings (link: https://nlp.stanford.edu/projects/glove/)
 * `past_brid2commit/` — Pickled bug-to-commit mappings
-* `*_indexing/` — Indexed source file folders (as JSON/text)
+* `*_indexing/` — Indexed source file folders (collected with: https://github.com/ThreeCirclesK/SWE-Bench-History_BugLoc)
 * `test_bugs/` — Test bug pickle files
 
 Place the following in the `dataset/` folder:
